@@ -1,0 +1,1 @@
+Camel up is a board game thats similar to betting on a race. So ofc we had to nerd it out and recreate it with a an expected value calculator for each of the camles based on all possibilities and board states
